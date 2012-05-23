@@ -1,2 +1,2 @@
-epgSearch
-=========
+The epgSearch project
+=====================
